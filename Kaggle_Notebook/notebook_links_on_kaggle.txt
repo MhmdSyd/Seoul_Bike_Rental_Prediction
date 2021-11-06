@@ -1,0 +1,11 @@
+seoul-bike-basic-eda-for-everyone Notebook:
+
+link:
+https://www.kaggle.com/mhmdsyed/seoul-bike-basic-eda-for-everyone
+
+===================================================================
+
+Seoul Bike Rental | Regression Model NoteBook:
+link:
+https://www.kaggle.com/mhmdsyed/seoul-bike-rental-regression-model
+
