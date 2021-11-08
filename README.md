@@ -4,7 +4,6 @@
 
 <img align="center" alt="Github" src="https://raw.githubusercontent.com/MhmdSyd/needed_image/main/iti-kaggle.jpg"  width="100%">
 
-
 <h1 align="center"> Kaggle Notebooks  </h1>
 
 <p align="center">
@@ -25,4 +24,14 @@
   <img align="center" alt="EDA Code" src="https://raw.githubusercontent.com/MhmdSyd/needed_image/main/Model_Code.png" width="144px" height="42px">
 
  </a>
+</p>
+
+<h1 align="center"> Deploy on Web using Heroku  </h1>
+<p align="center">
+<a href="https://mhmdsyd-bike-rental.herokuapp.com/" target="_blank">
+
+  <img align="center" alt="Deploy on Heroku" src="https://raw.githubusercontent.com/MhmdSyd/needed_image/main/deploy.png" width="144px" height="42px">
+
+ </a>
+
 </p>
