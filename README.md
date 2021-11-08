@@ -8,21 +8,21 @@
 <h1 align="center"> Kaggle Notebooks  </h1>
 
 <p align="center">
-<a href="https://www.kaggle.com/c/seoul-bike-rental-ai-pro-iti/overview" >
+<a href="https://www.kaggle.com/c/seoul-bike-rental-ai-pro-iti/overview" target="_blank">
 
-  <img align="center" target="_blank" alt="EDA Code" src="https://raw.githubusercontent.com/MhmdSyd/needed_image/main/Compition.png" width="144px" height="42px">
-
- </a>
-
-<a href="https://www.kaggle.com/mhmdsyed/seoul-bike-basic-eda-for-everyone" >
-
-  <img align="center" target="_blank" alt="EDA Code" src="https://raw.githubusercontent.com/MhmdSyd/needed_image/main/EDA_Code.png" width="144px" height="42px">
+  <img align="center" alt="EDA Code" src="https://raw.githubusercontent.com/MhmdSyd/needed_image/main/Compition.png" width="144px" height="42px">
 
  </a>
 
-<a href="https://www.kaggle.com/mhmdsyed/seoul-bike-rental-regression-model" >
+<a href="https://www.kaggle.com/mhmdsyed/seoul-bike-basic-eda-for-everyone" target="_blank">
 
-  <img align="center" target="_blank" alt="EDA Code" src="https://raw.githubusercontent.com/MhmdSyd/needed_image/main/Model_Code.png" width="144px" height="42px">
+  <img align="center" alt="EDA Code" src="https://raw.githubusercontent.com/MhmdSyd/needed_image/main/EDA_Code.png" width="144px" height="42px">
+
+ </a>
+
+<a href="https://www.kaggle.com/mhmdsyed/seoul-bike-rental-regression-model" target="_blank">
+
+  <img align="center" alt="EDA Code" src="https://raw.githubusercontent.com/MhmdSyd/needed_image/main/Model_Code.png" width="144px" height="42px">
 
  </a>
 </p>
