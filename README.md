@@ -33,5 +33,12 @@
   <img align="center" alt="Deploy on Heroku" src="https://raw.githubusercontent.com/MhmdSyd/needed_image/main/deploy.png" width="144px" height="42px">
 
  </a>
+  
+  <a href="https://github.com/MhmdSyd/Seoul_Bike_Rental_Prediction/blob/main/Regression_Local_Code/Seoul_Bike_Rental_DashBoard.ipynb" target="_blank">
+
+  <img align="center" alt="Deploy on Heroku" src="https://raw.githubusercontent.com/MhmdSyd/needed_image/main/code.png" width="144px" height="42px">
+
+ </a>
 
 </p>
+
